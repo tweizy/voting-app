@@ -1,5 +1,3 @@
-# testratt
-
 A Vue.js web app for creating and interacting with community events.
 
 ## Deployed App
